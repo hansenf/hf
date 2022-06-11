@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### Live Site [https://hf.konsultasikan.com](https://hf.konsultasikan.com)
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
@@ -11,4 +11,4 @@ In this video, we will create a full Personal Development Portfolio. We're going
 Setup:
 - run ```npm i && npm start```
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## Launch your development career with project-based coaching - https://hf.konsultasikan.com

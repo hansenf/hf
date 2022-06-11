@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            React.js, React Native, Figma
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Golang, Node, AWS, Firebase, GCP, MongoDB, Postgres, Mysql
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,10 +41,10 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Full-Stack</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            CodeIgniter 3, Laravel, dotNet
           </ListParagraph>
         </ListContainer>
       </ListItem>
