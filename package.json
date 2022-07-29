@@ -1,6 +1,7 @@
 {
   "name": "hansenferiandy",
   "version": "0.1.0",
+  "homepage": "https://hf.konsultasikan.com",
   "private": true,
   "scripts": {
     "dev": "next dev",
